@@ -1,3 +1,9 @@
+<div>
+  <div align="right">
+    👆 右上角点击 <img class="ai-header-badge-img" src="https://img.shields.io/github/stars/WangJingyao07/Self-Supervised-Learning-Papers-with-Code.svg?style=social&label=Star"> 告诉我，你希望这个项目继续加速更新迭代 ❤️ & ☕️
+  </div>
+</div>
+
 # Self-supervised-Learning
 自监督学习的项目与paper总结-Project and paper summary of self-supervised learning
 【不断更新，2022.8.12构建仓库】
